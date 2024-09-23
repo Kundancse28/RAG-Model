@@ -1,0 +1,9 @@
+flask
+PyPDF2
+pinecone
+firebase_admin
+python-dotenv
+google-generativeai
+streamlit
+langchain
+langchain-google-genai
